@@ -1,0 +1,12 @@
+[
+  {
+   "category":"ערים",
+   "logoImage": "assets/images/icons/city-tour.svg",
+   "href": "/destination"
+  },
+  {
+   "category":"חופים",
+   "logoImage" : "assets/images/icons/sea-tour.svg",
+   "href": "/blog-grid"
+  }
+]

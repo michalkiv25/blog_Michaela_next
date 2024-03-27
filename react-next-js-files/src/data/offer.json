@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC03362.JPG?updatedAt=1680703003404",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC03368.JPG?updatedAt=1680703017464",
+    "imageTourPackageDetailsPage":"",
+    "country": "מלדיביים",
+    "countryEng": "Maldives",
+    "region" : "אוקיינוס ההודי",
+    "currency": "MVR",
+    "flag":"MV",
+    "date" : "ינואר 2015",
+    "generalInformation":"",
+    "recommendedSeason": "באופן כללי, מזג האוויר במלדיביים חם ולח כל השנה, ניתן לבקר בה במהלך כל השנה. נהוג לחלק את העונות בפיליפינים ל 2 – העונה הרטובה והעונה היבשה. מומלץ לטייל בפיליפינים בעונה היבשה, אך גם בעונה הרטובה ניתן לטייל, כיוון שמזג האוויר חם יחסית, וגם הגשם שעלול לרדת לא אמור להרוס לכם את הטיול. לכל עונה יש את היתרונות והחסרונות שלה.",
+    "trackTrip" : "במלדיביים ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בבתני מלון",
+    "sizeFamily" : "טיול זוגי",
+    "lengthTrip": "שבוע",
+    "hotels": 
+    [
+      { "nameHotel" : "מלון מלדיבים ראשון",
+        "imageHotelBlogDetails": "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC01615.JPG?updatedAt=1680702138758",
+        "informationHotel": "מידע על המלון הראשון",
+        "linkHotel": "www.goggle.com",
+        "imagesHotel": 
+        [
+
+        ],
+        "placeHotel": "בלב הים",
+        "imageTourPackageDetails": ""},
+      {}
+    ],
+    "galleryImages": 
+    [
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC01615.JPG?updatedAt=1680702138758",
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC01608.JPG?updatedAt=1680702128488",
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%9C%D7%93%D7%99%D7%91%D7%99%D7%99%D7%9D/DSC01267.JPG?updatedAt=1680702011806"
+    ],
+    "yearHomePage": 2015
+  },
+  {
+    "id": 2,
+    "imageHomePage": "assets/images/philippines/el_nido/DSC09191.JPG",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%90%D7%9C_%D7%A0%D7%99%D7%93%D7%95_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC09477.JPG?updatedAt=1680804970421",
+    "country": "פיליפינים",
+    "countryEng":"Philippines",
+    "secTitle" : "ירח דבש",
+    "date" : "אוקטובר 2016",
+    "region" : "מזרח",
+    "currency": "PHP",
+    "flag":"PH",
+    "generalInformation":"שךום פיליפינים",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן לבקר בה במהלך כל השנה. נהוג לחלק את העונות בפיליפינים ל 2 – העונה הרטובה והעונה היבשה. מומלץ לטייל בפיליפינים בעונה היבשה, אך גם בעונה הרטובה ניתן לטייל, כיוון שמזג האוויר חם יחסית, וגם הגשם שעלול לרדת לא אמור להרוס לכם את הטיול. לכל עונה יש את היתרונות והחסרונות שלה.",
+    "severalAreas": true,
+    "regions": 
+    [
+      {"region": "בורקאי", 
+      "countryRegion": "Bourkai",
+      "imageRegion": "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00783.JPG?updatedAt=1680889406607",
+      "informationRegionBlogStandart" : "כל המידע על בורקאי",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip" : "בבורקאי ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בבתני מלון",
+      "hotels" : [
+        {
+        "nameHotel": "שנגרילה",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "linkHotel": "www.google.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "informationHotelList": ["אוכל טוב","שירות טוב","כייף"],
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00834.JPG?updatedAt=1680889445751",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00852.JPG?updatedAt=1680889068574"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722"
+        },
+        { 
+        "nameHotel": "קפינסקי",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00689__1_.JPG?updatedAt=1680889338520",
+        "region": "צד מערבי",
+        "link": "",
+        "informationHotel": "",
+        "imagesHotel": []
+        }
+      ],
+      "galleryImages" : 
+      [
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01226.JPG?updatedAt=1680889272228",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00908.JPG?updatedAt=1680889075853",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01055.JPG?updatedAt=1680889168550",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00946.JPG?updatedAt=1680889062752",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01031.JPG?updatedAt=1680889160265",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01202.JPG?updatedAt=1680889216407",
+        "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00776.JPG?updatedAt=1680889389779"
+      ],
+      "videosGallery":
+      [
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        }
+      ]
+      },
+      {"region": "אל-נידו",
+      "imageRegion": "https://ik.imagekit.io/myBlog/%D7%90%D7%9C_%D7%A0%D7%99%D7%93%D7%95_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC09828.JPG?updatedAt=1680805264032",
+      "informationRegionBlogStandart" : "כל המידע על אל-נידו",
+      "hotels" : [
+
+        { 
+        "nameHotel": "ישרוטל",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%90%D7%9C_%D7%A0%D7%99%D7%93%D7%95_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC09706.JPG?updatedAt=1680805215738",
+        "region": "צד מערבי"
+        }
+      ],
+      "trackTrip": 
+      [
+        {"todaysTopic": "הגעה ליעד",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב",
+        "tips": ["לא לשכור רכב", "לא ללכת לקניון"]
+        },
+        {"todaysTopic": "נסיעה לרובע דאון",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב"
+        }
+      ]
+      }
+    ],
+    "yearHomePage": 2016
+  },
+  {
+    "id": 3,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%A1%D7%99%D7%99%D7%A9%D7%9C_%D7%9C%D7%94_%D7%93%D7%99%D7%92/DSC07553.JPG?updatedAt=1681064685988",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%A1%D7%99%D7%99%D7%A9%D7%9C_%D7%9C%D7%94_%D7%93%D7%99%D7%92/DSC08307.JPG?updatedAt=1681064709212",
+    "country": "איי סיישל",
+    "countryEng":"Seychelles",
+    "region" : "אוקיינוס ההודי",
+    "date" : "ספטמבר 2015",
+    "currency": "SCR",
+    "flag": "SC",
+    "tour-package-details": [{},{},{}],
+    "sizeFamily" : "טיול זוגי",
+    "lengthTrip": "שבוע",
+    "trackTrip": 
+      [
+        {"todaysTopic": "הגעה ליעד",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב",
+        "tips": ["לא לשכור רכב", "לא ללכת לקניון"]
+        },
+        {"todaysTopic": "נסיעה לרובע דאון",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב"
+        }
+      ], 
+     "mainland" : "אפריקה",
+    "hotels": 
+    [
+      { "nameHotel" : "מלון סיישל ראשון",
+      "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+      "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "informationHotel": "-סיישל מידע על המלון הראשון",
+        "linkHotel": "www.goggle.com",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%94%D7%94_%D7%A1%D7%99%D7%99%D7%A9%D7%9C/DSC09638.JPG?updatedAt=1681119440639"
+        ],
+        "imageTourPackageDetails": ""},
+      {}
+    ],
+    "galleryImages": 
+    [
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%94%D7%94_%D7%A1%D7%99%D7%99%D7%A9%D7%9C/DSC09447.JPG?updatedAt=1681119418370",
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%94%D7%94_%D7%A1%D7%99%D7%99%D7%A9%D7%9C/DSC09535.JPG?updatedAt=1681119431560"      
+    ],
+    "videosGallery":
+    [
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      }
+    ],
+    "yearHomePage": 2014
+  },
+  {
+    "id": 4,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06262.JPG?updatedAt=1681236770249",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06764.JPG?updatedAt=1681236780095",
+    "country": "זנזיבר",
+    "countryEng": "Zanzibar",
+    "date" : "ספטמבר 2015",
+    "region" : "אפריקה",
+    "currency":"TZS",
+    "flag":"TZ",
+    "generalInformation":"מידע כללי על זנזיבר",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן",
+    "sizeFamily" : "טיול זוגי",
+    "lengthTrip": "שבוע",
+    "trackTrip" : "בבורקאי ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בב",
+    "hotels": 
+    [
+      { "nameHotel" : "מלון זנזיבר ראשון",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "informationHotel": "-זנזיבר מידע על המלון הראשון",
+        "linkHotel": "www.goggle.com",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06803.JPG?updatedAt=1681236787259",
+          "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06793.JPG?updatedAt=1681236785733"        ],
+        "imageTourPackageDetails": ""},
+      {}
+    ],
+    "galleryImages": 
+    [
+      "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06899.JPG?updatedAt=1681236792368",
+      "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC06883.JPG?updatedAt=1681236790233",
+      "https://ik.imagekit.io/myBlog/%D7%96%D7%A0%D7%96%D7%99%D7%91%D7%A8/DSC07111.JPG?updatedAt=1681236804309"
+    ],
+    "videosGallery":
+      [
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        }
+      ],
+    "yearHomePage": 2015
+  },
+  {
+    "id": 5,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00171.JPG?updatedAt=1679918308543",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00183.JPG?updatedAt=1679918311844",
+    "country": "איטליה",
+    "countryEng":"Philippines",
+    "region" : "מזרח",
+    "currency": "PHP",
+    "flag":"PH",
+    "generalInformation":"",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן",
+    "date" : "מרץ 2014",
+    "galleryImages": 
+    [
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00438.JPG?updatedAt=1679918498439",
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00171.JPG?updatedAt=1679918308543",
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/IMG-20150410-WA0010.jpg?updatedAt=1679918215893"
+    ],
+    "videosGallery":
+    [
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      }
+    ],
+    "yearHomePage": 2012
+  },
+  {
+    "id": 6,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%A1%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A0%D7%99/DSC02466.JPG?updatedAt=1680788818144",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%A1%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A0%D7%99/DSC02517.JPG?updatedAt=1680788882541",
+    "country": "סנטוריני",
+    "date" : "יולי 2017",
+    "region" : "יון",
+    "countryEng":"Santorini",
+    "secTitle" : "",
+    "date" : "אוקטובר 2016",
+    "region" : "מזרח",
+    "currency": "ERO",
+    "flag":"ER",
+    "generalInformation":"",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן",
+    "hotels": 
+    [
+      { "nameHotel" : "מלון סנטוריני ראשון",
+        "informationHotel": "-סנטוריני מידע על המלון הראשון",
+        "linkHotel": "www.goggle.com",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%A1%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A0%D7%99/IMG-20170719-WA0010.jpg?updatedAt=1680789132868",
+          "https://ik.imagekit.io/myBlog/%D7%A1%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A0%D7%99/IMG-20170719-WA0011.jpg?updatedAt=1680789138014"
+        ],
+        "imageTourPackageDetails": ""},
+      {}
+    ],
+    "galleryImages": 
+    [
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00438.JPG?updatedAt=1679918498439",
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/DSC00171.JPG?updatedAt=1679918308543",
+     "https://ik.imagekit.io/myBlog/%D7%93%D7%A8%D7%95%D7%9D_%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94_%D7%90%D7%9E%D7%9C%D7%A4%D7%99/IMG-20150410-WA0010.jpg?updatedAt=1679918215893"
+    ],
+    "yearHomePage": 2015,
+    "videosGallery":
+    [
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      }
+    ]
+  }
+]

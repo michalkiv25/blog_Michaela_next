@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DJI_0302.JPG?updatedAt=1705256144907",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%90%D7%9C_%D7%A0%D7%99%D7%93%D7%95_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC09477.JPG?updatedAt=1680804970421",
+    "regularPrice": 200,
+    "country": "מאוריציוס",
+    "countryEng":"Philippines",
+    "secTitle" : "ירח דבש",
+    "region" : "מזרח",
+    "currency": "PHP",
+    "flag":"PH",
+    "date" : "אוקטובר 2016",
+    "generalInformation":"שךום פיליפינים",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן לבקר בה במהלך כל השנה. נהוג לחלק את העונות בפיליפינים ל 2 – העונה הרטובה והעונה היבשה. מומלץ לטייל בפיליפינים בעונה היבשה, אך גם בעונה הרטובה ניתן לטייל, כיוון שמזג האוויר חם יחסית, וגם הגשם שעלול לרדת לא אמור להרוס לכם את הטיול. לכל עונה יש את היתרונות והחסרונות שלה.",
+    "severalAreas": true,
+    "durationTrip": "חודש",
+    "rating": "5.0",
+    "informationRegionBlogStandart" : "כל המידע על בורקאי",
+    "tour-package-details": [{},{},{}],
+    "sizeFamily" : "טיול זוגי",
+    "lengthTrip": "שבוע",
+    "trackTrip": 
+    [
+      {"todaysTopic": "הגעה ליעד",
+      "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב",
+      "tips": ["לא לשכור רכב", "לא ללכת לקניון"]
+      },
+      {"todaysTopic": "נסיעה לרובע דאון",
+      "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב"
+      }
+    ],
+    "hotels": 
+    [
+      { "nameHotel" : "מלון מאוריציוס ראשון",
+      "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "informationHotel": "מידע על המלון הראשון- מאוריציוס",
+        "linkHotel": "www.goggle.com",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DJI_0574.JPG?updatedAt=1705256148572",
+          "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC04958.JPG?updatedAt=1703791012941"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageTourPackageDetails": "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DJI_0570.JPG?updatedAt=1705256149566"
+      },
+      {
+        "nameHotel" : "מלון מאוריציוס שני",
+        "informationHotel": "מידע על המלון הראשון- מאוריציוס",
+        "linkHotel": "www.goggle.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC05156.JPG?updatedAt=1703791013169"
+          
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageTourPackageDetails": "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC05061.JPG?updatedAt=1703791012864"
+      }
+    ],
+    "galleryImages": 
+    [
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC04635.JPG?updatedAt=1703790974211",
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC04546.JPG?updatedAt=1703790967042",
+      "https://ik.imagekit.io/myBlog/%D7%9E%D7%90%D7%95%D7%A8%D7%99%D7%A6%D7%99%D7%95%D7%A1/DSC04476.JPG?updatedAt=1703790958653"
+    ],
+    "videosGallery":
+    [
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+        "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+      },
+      {
+        "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+        "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93_2022/DSC01098.JPG?updatedAt=1681493583024",
+    "imageBlogGrid": "https://ik.imagekit.io/myBlog/%D7%90%D7%9C_%D7%A0%D7%99%D7%93%D7%95_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC09477.JPG?updatedAt=1680804970421",
+    "country": "תאילנד",
+    "countryEng":"Philippines",
+    "secTitle" : "ירח דבש",
+    "date" : "אוקטובר 2016",
+    "region" : "מזרח",
+    "currency": "PHP",
+    "flag":"PH",
+    "durationTrip": "חודש",
+    "rating": "5.0",
+    "places":["קוסמוי","בנקוק","קופנגן"],
+
+    "generalInformation":"שךום פיליפינים",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן לבקר בה במהלך כל השנה. נהוג לחלק את העונות בפיליפינים ל 2 – העונה הרטובה והעונה היבשה. מומלץ לטייל בפיליפינים בעונה היבשה, אך גם בעונה הרטובה ניתן לטייל, כיוון שמזג האוויר חם יחסית, וגם הגשם שעלול לרדת לא אמור להרוס לכם את הטיול. לכל עונה יש את היתרונות והחסרונות שלה.",
+    "severalAreas": true,
+    "regions":
+    [
+      {"region": "קוסמוי", 
+      "imageRegion": "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC07898.JPG?updatedAt=1680971979615",
+      "informationRegionBlogStandart" : "כל המידע על בורקאי",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip" : "בבורקאי ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בב",
+      "galleryImages" : 
+      [
+       "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC08401.JPG?updatedAt=1680971980448",
+       "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC07906.JPG?updatedAt=1680971975096",
+       "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC07708.JPG?updatedAt=1680971963231",
+       "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC05292.JPG?updatedAt=1680971949364"
+      ],
+      "hotels" : 
+      [
+        {
+        "nameHotel": "שנגרילה",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "linkHotel": "www.google.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00834.JPG?updatedAt=1680889445751",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00852.JPG?updatedAt=1680889068574"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": ""
+        },
+        { 
+        "nameHotel": "קפינסקי",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00689__1_.JPG?updatedAt=1680889338520",
+        "linkHotel": "",
+        "informationHotel": "",
+        "imagesHotel": [],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": ""
+        }
+      ]
+      },
+      {"region": "קופנגן",
+      "imageRegion": "",
+      "informationRegionBlogStandart" : "כל המידע על קופנגן",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip" : "בבורקאי ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בב",
+      "galleryImages" : 
+      [
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC06160.JPG?updatedAt=1680894955896",
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC05700.JPG?updatedAt=1680894740019",
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC05466.JPG?updatedAt=1680894587912"
+      ],
+      "videosGallery":
+      [
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        }
+      ],
+      "hotels" : [
+        {
+        "nameHotel": "שנגרילה",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "linkHotel": "www.google.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00834.JPG?updatedAt=1680889445751",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00852.JPG?updatedAt=1680889068574"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722"
+        },
+        { 
+        "nameHotel": "קפינסקי",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00689__1_.JPG?updatedAt=1680889338520",
+        "region": "צד מערבי",
+        "link": "",
+        "informationHotel": "",
+        "imagesHotel": ""
+        }
+      ]
+      },
+      {"region": "בנקוק",
+      "imageRegion": "",
+      "informationRegionBlogStandart" : "כל המידע על בנקוק",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip": 
+      [
+        {"todaysTopic": "הגעה ליעד",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב",
+        "tips": ["לא לשכור רכב", "לא ללכת לקניון"]
+        },
+        {"todaysTopic": "נסיעה לרובע דאון",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב"
+        }
+      ],
+      "galleryImages" : 
+      [
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC06160.JPG?updatedAt=1680894955896",
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC05700.JPG?updatedAt=1680894740019",
+      "https://ik.imagekit.io/myBlog/%D7%99%D7%A4%D7%9F-_%D7%A7%D7%99%D7%95%D7%98%D7%95/DSC05466.JPG?updatedAt=1680894587912"
+      ],
+      "hotels" : [
+        {
+        "nameHotel": "שנגרילה",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "linkHotel": "www.google.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00834.JPG?updatedAt=1680889445751",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00852.JPG?updatedAt=1680889068574"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722"
+        },
+        { 
+        "nameHotel": "קפינסקי",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00689__1_.JPG?updatedAt=1680889338520",
+        "region": "צד מערבי",
+        "link": "",
+        "informationHotel": "",
+        "imagesHotel": ""
+        }
+      ],
+      "videosGallery":
+      [
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01361.JPG?updatedAt=1680889363479",
+          "video" : "https://www.veed.io/embed/0766c276-472f-4d15-bf5a-295656458d11"  
+        },
+        {
+          "videoImage" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00721.JPG?updatedAt=1680889398274",
+          "video" : "https://www.veed.io/embed/fcc2b9c0-a67e-4e7b-b869-a5d67eada399"  
+        }
+      ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "imageHomePage": "https://ik.imagekit.io/myBlog/%D7%A1%D7%99%D7%9F_%D7%91%D7%99%D7%99%D7%96%D7%99%D7%9F/16236D86-49FC-4047-8520-3FBA4006C730_1_105_c.jpeg?updatedAt=1681289683837",
+    "country": "סין",
+    "countryEng":"Philippines",
+    "secTitle" : "ירח דבש",
+    "date" : "אוקטובר 2016",
+    "region" : "מזרח",
+    "currency": "PHP",
+    "flag":"PH",
+    "durationTrip": "חודש",
+    "rating": "5.0",
+    "places":["בייזין","סנייה","הונג-קונג"],
+    "generalInformation":"שךום פיליפינים",
+    "recommendedSeason": "באופן כללי, מזג האוויר בפיליפינים חם ולח כל השנה, ניתן לבקר בה במהלך כל השנה. נהוג לחלק את העונות בפיליפינים ל 2 – העונה הרטובה והעונה היבשה. מומלץ לטייל בפיליפינים בעונה היבשה, אך גם בעונה הרטובה ניתן לטייל, כיוון שמזג האוויר חם יחסית, וגם הגשם שעלול לרדת לא אמור להרוס לכם את הטיול. לכל עונה יש את היתרונות והחסרונות שלה.",
+    "regions":
+    [
+      {"region": "סנייה", 
+      "imageRegion": "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC07898.JPG?updatedAt=1680971979615",
+      "imageTourPackageDetails": "https://ik.imagekit.io/myBlog/%D7%98%D7%95%D7%A7%D7%99%D7%95_%D7%99%D7%A4%D7%9F/DSC07898.JPG?updatedAt=1680971979615",
+      "informationRegion" : "כל המידע על בורקאי",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip" : "בבורקאי ששינו סהכ שבוע, אחרי טיול ארוך וסתם רצינו להתפנק בב",
+      "gallaryImages" : 
+      [
+      "","",""
+      ],
+      "hotels" : [
+        {
+        "nameHotel": "שנגרילה",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00806.JPG?updatedAt=1680889444166",
+        "linkHotel": "www.google.com",
+        "informationHotel": "זוהי עובדה מבוססת שדעתו של הקורא תהיה מוסחת על ידי טקטס קריא כאשר הוא יביט בפריסתו. המטרה בשימוש",
+        "imagesHotel": 
+        [
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00834.JPG?updatedAt=1680889445751",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722",
+          "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00852.JPG?updatedAt=1680889068574"
+        ],
+        "placeHotel": "במרחק של מספר צעדים מחוף בולבוג",
+        "imageHotelBlogDetails": "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC01001.JPG?updatedAt=1680889115722"
+        },
+        { 
+        "nameHotel": "קפינסקי",
+        "imageHotel" : "https://ik.imagekit.io/myBlog/%D7%91%D7%95%D7%A8%D7%A7%D7%90%D7%99_-_%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%99%D7%A0%D7%99%D7%9D/DSC00689__1_.JPG?updatedAt=1680889338520",
+        "region": "צד מערבי",
+        "link": "",
+        "informationHotel": "",
+        "imagesHotel": ""
+        }
+      ]
+      },
+      {"region": "בייגין",
+      "imageRegion": "",
+      "informationRegionBlogStandart" : "כל המידע על ביגיין",
+      "tour-package-details": [{},{},{}],
+      "sizeFamily" : "טיול זוגי",
+      "lengthTrip": "שבוע",
+      "trackTrip": 
+      [
+        {"todaysTopic": "הגעה ליעד",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב",
+        "tips": ["לא לשכור רכב", "לא ללכת לקניון"]
+        },
+        {"todaysTopic": "נסיעה לרובע דאון",
+        "majorTopicDay": "הגענו למלון, עשינו סיבוב במדרחוב"
+        }
+      ],
+      "gallaryImages" : 
+      [
+        "","",""
+
+      ]
+      }
+    ]
+  }
+]
